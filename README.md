@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek Singh Bhadouria</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">A passionate full stack developer having expertise in MERN stack development.</h3>
 
 - 🔭 I’m currently working on [webRTC based project](N/A)

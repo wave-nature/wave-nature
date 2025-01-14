@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [webRTC based project](N/A)
 
-- 🌱 I’m currently learning **TypeScript and DSA**
+- 🌱 I’m currently learning **Rust, Web3 and AI Agents**
 
 - 👨‍💻 All of my projects are available at [N/A](N/A)
 
